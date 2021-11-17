@@ -2,4 +2,4 @@
 
 ![](Arduino.png)
 
-Minimize energy usage in house through controlling fan and air conditioner based on temperature and motion
+Minimize energy usage in house through controlling fan and air conditioner based on temperature and motion.
