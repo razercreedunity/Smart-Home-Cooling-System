@@ -1,3 +1,3 @@
 # Smart-Home-Cooling-System
 
-![Alt text](relative/path/to/Arduino.jpg?raw=true "Title")
+![Alt text](razercreedunity/Smart-Home-Cooling-System/to/Arduino.jpg?raw=true "Title")
