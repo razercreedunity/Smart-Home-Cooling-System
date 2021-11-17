@@ -1,3 +1,3 @@
 # Smart-Home-Cooling-System
 
-![Alt text](razercreedunity/Smart-Home-Cooling-System/to/Arduino.jpg?raw=true "Title")
+![alt text](https://github.com/[razercreedunity]/[Smart-Home-Cooling-System/]/Arduino.jpg?raw=true)
